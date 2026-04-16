@@ -2,6 +2,7 @@ import { useState, useEffect, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import heroBrands from "@/assets/hero-brands.jpg";
+import heroFacewash from "@/assets/hero-facewash.jpg";
 import heroHair from "@/assets/hero-hairserum.jpg";
 import heroSkincare from "@/assets/hero-skincare.jpg";
 import heroNewdrops from "@/assets/hero-newdrops.jpg";
@@ -18,7 +19,7 @@ const slides = [
   {
     id: 2,
     type: "split-right" as const,
-    image: heroSkincare,
+    image: heroFacewash,
     productName: "Detan Smoothie Face Wash",
     badge: "New Drop",
     badgeColor: "bg-primary text-primary-foreground",
