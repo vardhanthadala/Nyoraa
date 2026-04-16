@@ -30,7 +30,7 @@ const Footer = () => {
           <div className="sm:col-span-2 lg:col-span-1">
             <div className="flex items-center gap-2 mb-4">
               <Leaf className="w-5 h-5 text-primary" />
-              <span className="font-display font-bold text-xl text-footer-text">Honasa</span>
+              <span className="font-display font-bold text-xl text-footer-text">Nyoraa</span>
             </div>
             <p className="text-footer-muted text-sm leading-relaxed mb-4">
               Science-backed beauty for every story.
@@ -74,7 +74,7 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold text-sm mb-4 text-footer-text">Contact</h4>
             <ul className="space-y-2 text-footer-muted text-sm">
-              <li>hi@honasa.com</li>
+              <li>hi@nyoraa.com</li>
               <li>Gurugram, Haryana</li>
               <li>+91 124 000 0000</li>
             </ul>
@@ -97,7 +97,7 @@ const Footer = () => {
       <div className="border-t border-footer-muted/20">
         <div className="container mx-auto px-4 lg:px-8 py-4">
           <p className="text-center text-footer-muted text-xs">
-            © 2024 Honasa Consumer Ltd. All rights reserved.
+            © 2024 Nyoraa Consumer Ltd. All rights reserved.
           </p>
         </div>
       </div>

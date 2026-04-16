@@ -18,7 +18,7 @@ const OurStory = () => {
           >
             <img
               src={foundersImg}
-              alt="Honasa founders"
+              alt="Nyoraa founders"
               className="w-full h-auto rounded-2xl rotate-1 shadow-[var(--card-shadow-hover)] object-cover"
               loading="lazy"
               decoding="async"
@@ -41,7 +41,7 @@ const OurStory = () => {
               Our Story
             </h2>
             <p className="text-muted-foreground text-sm md:text-base leading-relaxed">
-              Born from a vision to build science-backed, consumer-first beauty brands for the modern Indian, Honasa Consumer Ltd. started with Mamaearth — and never stopped. Today, we are India's largest digital-first BPC company with 8 brands, trusted by millions across 750+ districts. We believe beauty should be honest, effective, and sustainable.
+              Born from a vision to build science-backed, consumer-first beauty brands for the modern Indian, Nyoraa Consumer Ltd. started with Mamaearth — and never stopped. Today, we are India's largest digital-first BPC company with 8 brands, trusted by millions across 750+ districts. We believe beauty should be honest, effective, and sustainable.
             </p>
             <a href="/about" className="inline-block text-primary font-medium text-sm hover:underline">
               Read Our Full Story →

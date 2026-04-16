@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Nyoraa Project
 
 TODO: Document your project here
