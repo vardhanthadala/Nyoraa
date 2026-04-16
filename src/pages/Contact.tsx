@@ -93,7 +93,7 @@ const ContactPage = () => {
               <div className="space-y-4 pt-4 border-t border-border">
                 <div>
                   <p className="text-xs text-muted-foreground uppercase tracking-wider mb-1">Contact</p>
-                  <p className="text-sm text-foreground">hi@honasa.com</p>
+                  <p className="text-sm text-foreground">hi@nyoraa.com</p>
                 </div>
                 <div>
                   <p className="text-xs text-muted-foreground uppercase tracking-wider mb-1">Based in</p>

@@ -37,7 +37,7 @@ const Navbar = () => {
         <Link to="/" className="flex items-center gap-2">
           <Leaf className="w-5 h-5 text-primary" />
           <span className="font-display font-bold text-xl md:text-2xl text-foreground">
-            Honasa
+            Nyoraa
           </span>
         </Link>
 
